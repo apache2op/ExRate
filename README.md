@@ -10,7 +10,7 @@ Find Exchange Rates of various currencies over the world
 
 ## Links
 
-- Solution URL: [GitHub Repository]()
+- Solution URL: [GitHub Repository](https://github.com/apache2op/ExRate)
 - Live Site URL: [Live Site]()
 
 ## Built with
